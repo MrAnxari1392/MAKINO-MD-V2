@@ -34,11 +34,11 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
+global.Owner = ["𒁍 𓆩๛⃝𝞠𝞒𝞘𝞜𝘾𝞢𝙎𝙎 𝞛𝞓𝙇𝞘𝞖𝞓‣᭄𓆪 𑁍 ̽•››̈"];
+global.OwnerNumber = ["923377081321"];
+global.ownertag = ["923377081321"]; 
+global.OwnerName =  "𒁍 𓆩๛⃝𝞠𝞒𝞘𝞜𝘾𝞢𝙎𝙎 𝞛𝞓𝙇𝞘𝞖𝞓‣᭄𓆪 𑁍 ̽•››̈";
+global.BotName = "🐦𒁍 𓆩๛⃝𝞠𝞒𝞘𝞜𝘾𝞢𝙎𝙎 𝞛𝞓𝙇𝞘𝞖𝞓‣᭄𓆪 𑁍 ̽•››̈";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
